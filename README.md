@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mustafa1721
 - 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me: mustafasayyed322@gmail.com
 
 <!---
